@@ -13,7 +13,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn import metrics
 
-dataset = pd.read_csv(r'C:\Users\Hp\Desktop\Nasa\Final\New folder (2)\IRIS3.csv')
+dataset = pd.read_csv(r'Datasets\Asteroid_data.csv')
 
 dataset.shape
 
